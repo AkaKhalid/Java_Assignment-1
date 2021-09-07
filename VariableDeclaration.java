@@ -9,8 +9,9 @@ public class VariableDeclaration {
 		float c=46.0F;
 		long d=936734674;
 		boolean e = false;
-		String f="declaration";
-		System.out.print("a="+a+ "\n" +"b="+b+ "\n" +"c="+c+ "\n" +"d="+d+ "\n" +"e="+e+ "\n" +"f="+f);
+		char f = "a"
+		String g="declaration";
+		System.out.print("a="+a+ "\n" +"b="+b+ "\n" +"c="+c+ "\n" +"d="+d+ "\n" +"e="+e+ "\n" +"f="+f+ "\n" +"g");
 	}
 
 }
