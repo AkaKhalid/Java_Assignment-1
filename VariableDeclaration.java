@@ -8,8 +8,8 @@ public class VariableDeclaration {
 		double b=19.05;
 		float c=46.0F;
 		long d=936734674;
-		boolean e = false;
-		char f = "a"
+		boolean e=false;
+		char f="a"
 		String g="declaration";
 		System.out.print("a="+a+ "\n" +"b="+b+ "\n" +"c="+c+ "\n" +"d="+d+ "\n" +"e="+e+ "\n" +"f="+f+ "\n" +"g");
 	}
